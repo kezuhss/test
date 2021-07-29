@@ -260,7 +260,7 @@ client.login(settings.token);
 // //  console.log(chalk.bgBlue.green(e.replace(regToken, 'that was redacted')));
 // //  });
 
-client.login('ODY5MzEzNzE2NDQ4MDE0MzU4.YP8ZfQ.bimqdG54kG6BAlRiO4Kn1npq5gQ');
+client.login('ODY5MzEzNzE2NDQ4MDE0MzU4.YP8ZfQ.uIp9TG9ySn4dooJ58UWgm_3gRjU');
 
 
 
